@@ -176,6 +176,16 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Optimistic Bayesian Sampling in Contextual-Bandit Problems](http://delivery.acm.org/10.1145/2350000/2343711/p2069-may.pdf?ip=12.53.4.66&id=2343711&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1528934367_c69f6bd322b6980d96ba19cef4802c7a)
 
+[Python multi-armed bandit library](https://github.com/roycoding/slots)
+
+[Solving the multi-armed bandit problem](https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c)
+
+[js-multi-armed-bandits](https://github.com/arbuckle/js-multi-armed-bandits)
+
+[npm egreedy js](https://github.com/kurttheviking/egreedy-js)
+
+[MAB demo in JS](https://github.com/mreid/Bandits)
+
 ### Net Lift
 
 [Uplift modelling - Wikipedia](https://en.wikipedia.org/wiki/Uplift_modelling)
@@ -244,6 +254,13 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [imblearn.over_sampling.SMOTE](http://contrib.scikit-learn.org/imbalanced-learn/stable/generated/imblearn.over_sampling.SMOTE.html)
 
+### Ensemble Models
+
+[Quantifying Uncertain in Random Forests](http://jmlr.org/papers/volume17/14-168/14-168.pdf)
+
+[Light GBM](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
+
+
 ### Model Blending
 
 [StackingClassifier](https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/)
@@ -297,6 +314,20 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 ### Counterfactual Reasoning
 
 [bottou13a.dvi](https://research.fb.com/wp-content/uploads/2016/11/counterfactual-reasoning-and-learning-systems-the-example-of-computational-advertising.pdf?)
+
+### Multioutput Regression
+
+[A Survey On Multi-Output Regression](http://cig.fi.upm.es/articles/2015/Borchani-2015-WDMKD.pdf)
+
+[Regression Models with Multiple Target Variables](https://towardsdatascience.com/regression-models-with-multiple-target-variables-8baa75aacd)
+
+### Constrained Optimization
+
+[Constrained Optimization Example in Python (Stitchfix)](https://multithreaded.stitchfix.com/blog/2018/06/21/constrained-optimization/)
+
+[GLPK (Gnu Linear Programming Kit)](https://www.gnu.org/software/glpk/)
+
+[Pyomo (Linear Programming in Python)](http://pyomo.readthedocs.io/en/latest/)
 
 ## General Data Science
 
