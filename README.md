@@ -27,7 +27,7 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 ## Stats
 
-[Intro Statistical Learning](file:///Users/mburke/Documents/Books/IntroductionToStatisticalLearningInR.pdf)
+[Intro to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
 
 ## Python
@@ -151,6 +151,8 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 [Replacing Variables by WoE (Weight of Evidence) in Logistic Regression - Cross Validated](https://stats.stackexchange.com/questions/189568/replacing-variables-by-woe-weight-of-evidence-in-logistic-regression)
 
 [GitHub - kraken19/woeR: Weight of Evidence binning of a variable](https://github.com/kraken19/woeR)
+
+[Multi interval discretization of continuous valued attributes for classification learning](http://web.donga.ac.kr/kjunwoo/files/Multi%20interval%20discretization%20of%20continuous%20valued%20attributes%20for%20classification%20learning.pdf)
 
 ### LogisticRegression
 
@@ -295,7 +297,25 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [quantile_regression](http://www.statsmodels.org/dev/examples/notebooks/generated/quantile_regression.html)
 
-### Collaborative Filtering
+### Recommendation
+
+[A Survey of Accuracy Evaluation Metrics of Recommendation Tasks](http://jmlr.csail.mit.edu/papers/volume10/gunawardana09a/gunawardana09a.pdf)
+
+[Recall and Precision at k for Recommender Systems](https://medium.com/@m_n_malaeb/recall-and-precision-at-k-for-recommender-systems-618483226c54)
+
+[Recommendation Under Constraints](https://arxiv.org/pdf/1701.05228.pdf)
+
+[EvaluationMetrics.TR_.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EvaluationMetrics.TR_.pdf)
+
+[Score Lookalike Modeling (Yahoo research paper)](http://paul.rutgers.edu/~qma/research/ma_score_lookalike.pdf)
+
+[Lookalike System (yahoo authors)](http://proceedings.mlr.press/v53/ma16.pdf)
+
+[Recommender Systems — It’s Not All About the Accuracy](https://gab41.lab41.org/recommender-systems-its-not-all-about-the-accuracy-562c7dceeaff)
+
+[overage and Serendipity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.8494&rep=rep1&type=pdf)
+
+#### Collaborative Filtering
 
 [Collaborative Filtering for Implicit Feedback Datasets](https://ieeexplore.ieee.org/document/4781121/)
 
@@ -328,6 +348,28 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 [GLPK (Gnu Linear Programming Kit)](https://www.gnu.org/software/glpk/)
 
 [Pyomo (Linear Programming in Python)](http://pyomo.readthedocs.io/en/latest/)
+
+### Genetic Programming
+
+[Applying a genetic algorithm to the traveling salesman problem](http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5)
+
+[GitHub - maoaiz/tsp-genetic-python: A genetic algorithm to solve the Travelling Salesman Problem, implemented in Python](https://github.com/maoaiz/tsp-genetic-python)
+
+[GitHub - manuel-calzolari/sklearn-genetic: Genetic feature selection module for scikit-learn](https://github.com/manuel-calzolari/sklearn-genetic)
+
+[List of genetic algorithm applications - Wikipedia](https://en.wikipedia.org/wiki/List_of_genetic_algorithm_applications)
+
+[GitHub - PytLab/gaft: A Genetic Algorithm Framework in Python](https://github.com/PytLab/gaft)
+
+[Creating a genetic algorithm for beginners](http://www.theprojectspot.com/tutorial-post/creating-a-genetic-algorithm-for-beginners/3)
+
+[A_Field_Guide_to_Genetic_Programming.pdf](https://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
+
+[Michalewicz Z. Genetic Algorithms + Data Structures = Evolution Programs (3ed.)](http://web.ist.utl.pt/adriano.simoes/tese/referencias/Michalewicz%20Z.%20Genetic%20Algorithms%20+%20Data%20Structures%20=%20Evolution%20Programs%20%283ed%29.PDF)
+
+### Model Interpretability
+
+[Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)
 
 ## General Data Science
 
