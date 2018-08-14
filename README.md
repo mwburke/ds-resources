@@ -234,6 +234,10 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Silhouette (clustering) - Wikipedia](https://en.wikipedia.org/wiki/Silhouette_(clustering))
 
+[An Analysis of the Application of Simplified Silhouette to the Evaluation of k-means Clustering Validity](https://pdfs.semanticscholar.org/4229/22aab946a36a6cfa2370b853e02214938b80.pdf)
+
+[Simplified, Scalable Silhouette in Scala for Spark](https://arrow.dit.ie/cgi/viewcontent.cgi?referer=http://sujitpal.blogspot.com/2018/03/an-implementation-of-silhouette-score.html)
+
 [Agglomerative clustering with different metrics](http://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering_metrics.html)
 
 [scikit-learn/plot\_hierarchical\_clustering_dendrogram.py](https://github.com/scikit-learn/scikit-learn/blob/70cf4a676caa2d2dad2e3f6e4478d64bcb0506f7/examples/cluster/plot_hierarchical_clustering_dendrogram.py)
