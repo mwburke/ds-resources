@@ -23,6 +23,7 @@ An unorganized but helpful list of resources I've found that are useful. Posting
     + [LogisticRegression](#logisticregression)
     + [Multi-Armed Bandit](#multi-armed-bandit)
     + [Net Lift](#net-lift)
+    + [Ad Click Modeling](#ad-click-modeling)
     + [Scoring](#scoring)
     + [GAM](#gam)
     + [Clustering](#clustering-1)
@@ -249,6 +250,14 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 [Introduction to Uplift Modelling](https://www.slideshare.net/PierreGutierrez2/introduction-to-uplift-modelling)
 
 [Hillstrom Challenge](http://stochasticsolutions.com/pdf/HillstromChallenge.pdf)
+
+### Ad Click Modeling
+
+[Click Modeling in Search Advertising: Challenges & Solutions](https://pdfs.semanticscholar.org/presentation/df14/9b741d27efe5240da7e5a8eaf972a4eec243.pdf)
+
+[Position-Normalized Click Prediction in Search Advertising](http://wan.poly.edu/KDD2012/docs/p795.pdf)
+
+[Building a Click Model: From Idea to Practice](http://www.thuir.cn/group/~YQLiu/publications/TCAAI.pdf)
 
 ### Scoring
 
