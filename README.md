@@ -2,6 +2,46 @@
 
 An unorganized but helpful list of resources I've found that are useful. Posting them here so I can keep track of them
 
+- [Data Science Resources](#data-science-resources)
+  * [Database](#database)
+    + [Redshift](#redshift)
+  * [Stats](#stats)
+  * [Python](#python)
+    + [Sklearn Pipelines](#sklearn-pipelines)
+    + [Imputation](#imputation)
+    + [Keras](#keras)
+    + [Benchmarking](#benchmarking)
+    + [Sublime as Python IDE](#sublime-as-python-ide)
+    + [Trees](#trees)
+    + [Handling Text](#handling-text)
+    + [Clustering](#clustering)
+    + [Multiclass Prediction](#multiclass-prediction)
+    + [Writing Packages](#writing-packages)
+  * [Algorithms](#algorithms)
+    + [WoE](#woe)
+      - [Binning](#binning)
+    + [LogisticRegression](#logisticregression)
+    + [Multi-Armed Bandit](#multi-armed-bandit)
+    + [Net Lift](#net-lift)
+    + [Scoring](#scoring)
+    + [GAM](#gam)
+    + [Clustering](#clustering-1)
+    + [VIF](#vif)
+    + [Imbalanced Classes](#imbalanced-classes)
+    + [Ensemble Models](#ensemble-models)
+    + [Model Blending](#model-blending)
+    + [Feature Selection](#feature-selection)
+    + [QuantileRegression](#quantileregression)
+    + [Recommendation](#recommendation)
+      - [Collaborative Filtering](#collaborative-filtering)
+      - [Counterfactual Reasoning](#counterfactual-reasoning)
+    + [Multioutput Regression](#multioutput-regression)
+    + [Constrained Optimization](#constrained-optimization)
+    + [Genetic Programming](#genetic-programming)
+    + [Model Interpretability](#model-interpretability)
+  * [General Data Science](#general-data-science)
+
+
 
 ## Database
 
@@ -208,13 +248,13 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Introduction to Uplift Modelling](https://www.slideshare.net/PierreGutierrez2/introduction-to-uplift-modelling)
 
-[stochasticsolutions.com/pdf/HillstromChallenge.pdf](http://stochasticsolutions.com/pdf/HillstromChallenge.pdf)
+[Hillstrom Challenge](http://stochasticsolutions.com/pdf/HillstromChallenge.pdf)
 
 ### Scoring
 
-[proper-scoring](http://www-stat.wharton.upenn.edu/~buja/PAPERS/paper-proper-scoring.pdf)
+[Proper Scoring](http://www-stat.wharton.upenn.edu/~buja/PAPERS/paper-proper-scoring.pdf)
 
-[gini importance explanation](https://stats.stackexchange.com/questions/92419/relative-importance-of-a-set-of-predictors-in-a-random-forests-classification-in?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+[Gini importance explanation](https://stats.stackexchange.com/questions/92419/relative-importance-of-a-set-of-predictors-in-a-random-forests-classification-in?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
 
 ### GAM
 
@@ -313,11 +353,11 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Score Lookalike Modeling (Yahoo research paper)](http://paul.rutgers.edu/~qma/research/ma_score_lookalike.pdf)
 
-[Lookalike System (yahoo authors)](http://proceedings.mlr.press/v53/ma16.pdf)
+[Lookalike System (Yahoo! authors)](http://proceedings.mlr.press/v53/ma16.pdf)
 
 [Recommender Systems — It’s Not All About the Accuracy](https://gab41.lab41.org/recommender-systems-its-not-all-about-the-accuracy-562c7dceeaff)
 
-[overage and Serendipity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.8494&rep=rep1&type=pdf)
+[Coverage and Serendipity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.8494&rep=rep1&type=pdf)
 
 #### Collaborative Filtering
 
@@ -325,7 +365,7 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [ALS Implicit Collaborative Filtering](https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe)
 
-[ benfred/implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
+[benfred/implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
 
 [Collaborative Filtering - Spark 2.3.0 Documentation](https://spark.apache.org/docs/2.3.0/ml-collaborative-filtering.html)
 
