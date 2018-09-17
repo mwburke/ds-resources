@@ -39,6 +39,7 @@ An unorganized but helpful list of resources I've found that are useful. Posting
     + [Multioutput Regression](#multioutput-regression)
     + [Constrained Optimization](#constrained-optimization)
     + [Genetic Programming](#genetic-programming)
+      - [GAs for Neural Networks](#gas-for-neural-networks)
     + [Model Interpretability](#model-interpretability)
   * [General Data Science](#general-data-science)
 
@@ -60,8 +61,6 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Unsupported PostgreSQL Functions](https://docs.aws.amazon.com/redshift/latest/dg/c_unsupported-postgresql-functions.html)
 
-[STDDEV\_SAMP and STDDEV\_POP Functions](https://docs.aws.amazon.com/redshift/latest/dg/r_STDDEV_functions.html)
-
 [Window Functions](https://docs.aws.amazon.com/redshift/latest/dg/c_Window_functions.html)
 
 [String Functions](https://docs.aws.amazon.com/redshift/latest/dg/String_functions_header.html)
@@ -70,14 +69,13 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Intro to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
 
-
 ## Python
 
 ### Sklearn Pipelines
 
 [Feature Union with Heterogeneous Data Sources](http://scikit-learn.org/stable/auto_examples/hetero_feature_union.html)
 
-[python - Sklearn Combine Multiple Feature Sets in Pipeline](https://stats.stackexchange.com/questions/177082/sklearn-combine-multiple-feature-sets-in-pipeline)
+[Sklearn Combine Multiple Feature Sets in Pipeline](https://stats.stackexchange.com/questions/177082/sklearn-combine-multiple-feature-sets-in-pipeline)
 
 [Automate Machine Learning Workflows with Pipelines in Python and scikit-learn](https://machinelearningmastery.com/automate-machine-learning-workflows-pipelines-python-scikit-learn/)
 
@@ -89,27 +87,27 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 ### Imputation
 
-[fancyimpute](https://pypi.org/project/fancyimpute/)
+[Fancy Impute Package](https://pypi.org/project/fancyimpute/)
 
 ### Keras
 
 [Sequence Preprocessing](https://keras.io/preprocessing/sequence/)
 
-[What is masking in a recurrent neural network (RNN)? - Quora](https://www.quora.com/What-is-masking-in-a-recurrent-neural-network-RNN)
+[What is masking in a recurrent neural network (RNN)?](https://www.quora.com/What-is-masking-in-a-recurrent-neural-network-RNN)
 
-[Core Layers - Keras Documentation](https://keras.io/layers/core/)
+[Core Layers - Keras](https://keras.io/layers/core/)
 
-[Keras lstm with masking layer for variable-length inputs - Stack Overflow](https://stackoverflow.com/questions/49670832/keras-lstm-with-masking-layer-for-variable-length-inputs)
+[Keras lstm with masking layer for variable-length inputs](https://stackoverflow.com/questions/49670832/keras-lstm-with-masking-layer-for-variable-length-inputs)
 
 [Recurrent Models with sequences of mixed length](https://github.com/keras-team/keras/issues/40)
 
 ### Benchmarking
 
-[performance - Measure time elapsed in Python?](https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python)
+[Measure time elapsed in Python](https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python)
 
-[performance - Which Python memory profiler is recommended?](https://stackoverflow.com/questions/110259/which-python-memory-profiler-is-recommended)
+[Which Python memory profiler is recommended?](https://stackoverflow.com/questions/110259/which-python-memory-profiler-is-recommended)
 
-[memory_profiler 0.52.0](https://pypi.python.org/pypi/memory_profiler)
+[Python Package memory_profiler 0.52.0](https://pypi.python.org/pypi/memory_profiler)
 
 ### Sublime as Python IDE
 
@@ -117,7 +115,7 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Setting up SublimeREPL with Python3 (Example)](https://coderwall.com/p/nhq2gg/setting-up-sublimerepl-with-python3)
 
-[ST3: how to execute highlighted/selected lines of Python code? : SublimeText](https://www.reddit.com/r/SublimeText/comments/3us8wz/st3_how_to_execute_highlightedselected_lines_of/)
+[ST3: how to execute highlighted/selected lines of Python code](https://www.reddit.com/r/SublimeText/comments/3us8wz/st3_how_to_execute_highlightedselected_lines_of/)
 
 [SublimeREPL — SublimeREPL 1.0.30 documentation](https://sublimerepl.readthedocs.io/en/latest/)
 
@@ -157,8 +155,6 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Multiclass and multilabel algorithms — scikit-learn](http://scikit-learn.org/stable/modules/multiclass.html)
 
-[pandas create multiple new columns](https://stackoverflow.com/questions/16236684/apply-pandas-function-to-column-to-create-multiple-new-columns)
-
 ### Writing Packages
 
 [Writing Python Libraries](http://platanios.org/assets/pdf/teaching/writing_python_libraries.pdf)
@@ -179,7 +175,7 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [woeBinning.pdf](https://cran.r-project.org/web/packages/woeBinning/woeBinning.pdf)
 
-[Data Exploration with Weight of Evidence and Information Value in R |](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
+[Data Exploration with Weight of Evidence and Information Value in R](https://multithreaded.stitchfix.com/blog/2015/08/13/weight-of-evidence/)
 
 [Weight of Evidence (WOE) and Information Value Explained](https://www.listendata.com/2015/03/weight-of-evidence-woe-and-information.html)
 
@@ -197,7 +193,7 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 ### LogisticRegression
 
-[machine learning - Difference between ElasticNet in scikit-learn Python and Glmnet in R](https://stats.stackexchange.com/questions/206898/difference-between-elasticnet-in-scikit-learn-python-and-glmnet-in-r)
+[Difference between ElasticNet in scikit-learn Python and Glmnet in R](https://stats.stackexchange.com/questions/206898/difference-between-elasticnet-in-scikit-learn-python-and-glmnet-in-r)
 
 [Logistic Regression: Scikit Learn vs glmnet](https://stats.stackexchange.com/questions/203816/logistic-regression-scikit-learn-vs-glmnet))
 
@@ -211,11 +207,11 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [Statistical power - Wikipedia](https://en.wikipedia.org/wiki/Statistical_power)
 
-[bandit.dvi](https://cs.nyu.edu/~mohri/pub/bandit.pdf)
+[Bandit](https://cs.nyu.edu/~mohri/pub/bandit.pdf)
 
 [Python Multi-armed Bandits (and Beer!)](http://blog.yhat.com/posts/the-beer-bandit.html)
 
-[bgalbraith/bandits: Python library for Multi-Armed Bandits](https://github.com/bgalbraith/bandits)
+[Python library for Multi-Armed Bandits](https://github.com/bgalbraith/bandits)
 
 [Optimistic Bayesian Sampling in Contextual-Bandit Problems](http://delivery.acm.org/10.1145/2350000/2343711/p2069-may.pdf?ip=12.53.4.66&id=2343711&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1528934367_c69f6bd322b6980d96ba19cef4802c7a)
 
@@ -269,9 +265,9 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 
 [GAM: The Predictive Modeling Silver Bullet](https://multithreaded.stitchfix.com/blog/2015/07/30/gam/)
 
-[pyGAM : Getting Started with Generalized Additive Models in Python](https://codeburst.io/pygam-getting-started-with-generalized-additive-models-in-python-457df5b4705f)
+[Getting Started with Generalized Additive Models in Python](https://codeburst.io/pygam-getting-started-with-generalized-additive-models-in-python-457df5b4705f)
 
-[dswah/pyGAM: Generalized Additive Models in Python](https://github.com/dswah/pyGAM)
+[Generalized Additive Models in Python](https://github.com/dswah/pyGAM)
 
 [Fitting a Simple Additive Model in Python](http://austinrochford.com/posts/2015-08-29-additive.html)
 
@@ -419,6 +415,18 @@ An unorganized but helpful list of resources I've found that are useful. Posting
 [A_Field_Guide_to_Genetic_Programming.pdf](https://dces.essex.ac.uk/staff/rpoli/gp-field-guide/A_Field_Guide_to_Genetic_Programming.pdf)
 
 [Michalewicz Z. Genetic Algorithms + Data Structures = Evolution Programs (3ed.)](http://web.ist.utl.pt/adriano.simoes/tese/referencias/Michalewicz%20Z.%20Genetic%20Algorithms%20+%20Data%20Structures%20=%20Evolution%20Programs%20%283ed%29.PDF)
+
+#### GAs for Neural Networks
+
+[Adaption of Neural Networks Using Genetic Algorithms](https://hrcak.srce.hr/file/260294)
+
+[Combining Gnetic Algorithms and Neural Networks: The Encoding Problem](http://homepages.inf.ed.ac.uk/pkoehn/publications/gann94.pdf)
+
+[Automated Neural Network construction with Genetic Algorithm](https://www.riscure.com/blog/automated-neural-network-construction-genetic-algorithm/)
+
+[Topology Design of Feedforward Neural Networks by Genetic Algorithms](https://pdfs.semanticscholar.org/f415/d1d08fafa829aa4b0b6a3ee75d74698a6658.pdf)
+
+[Genetic CNN](https://arxiv.org/pdf/1703.01513.pdf)
 
 ### Model Interpretability
 
